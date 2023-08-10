@@ -1,0 +1,40 @@
+# Model hyperparameters
+
+learning_rate         : 0.00001
+num_epochs            : 60
+seed                  : 42
+ckpt_save_freq        : 20
+
+batch :
+  batch_train_size      : 80
+  Validation_Set        : False
+  batch_validation_size : 0
+  batch_test_size       : 20
+
+# Dataset parameters
+dataset:
+  path: ./datasets/landscapes
+  img_height    : 256
+  img_width     : 256
+  soft_encode   : False
+
+
+
+# Model architecture
+model:
+  name: 'MSE'
+  pretrained: False
+  num_classes: 10
+
+# Optimization parameters
+optimizer :
+  name: SGD
+  weight_decay    : 0.0001
+  momentum        : 0.95
+
+# Scheduler parameters
+scheduler:
+  name        : LinearLR
+  start_factor: 1
+  end_factor  : 0.5
+  total_iters : 20
