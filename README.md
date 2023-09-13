@@ -1,5 +1,11 @@
 # Colorful Image Colorization Project
 
+![Image Description](Images/MSE__loss.png)
+
+![Image Description](Images/2226.png)
+
+![Image Description](Images/126.png)
+
 Welcome to the **Colorful Image Colorization** GitHub project! In this repository, you'll find an implementation of the Colorful Image Colorization technique proposed by Richard Zhang, Phillip Isola, and Alexei A. Efros. This project aims to add color to grayscale images using deep learning models.
 
 ## Project Overview
