@@ -40,7 +40,7 @@ The repository includes various components and files to facilitate the colorizat
 
 ## Usage
 
-To begin, you can explore the project's various components and scripts. The `Train_Cross.ipynb` notebook provides a detailed guide to training the colorization model. You can also use the provided evaluation scripts such as `test_MSE.py` to assess the quality of the colorized images.
+To begin, you can explore the project's various components and scripts. The `Train_Cross.ipynb` notebook provides a detailed guide for colorization model training. You can also use the provided evaluation scripts such as `test_MSE.py` to assess the quality of the colorized images.
 
 Feel free to modify, experiment, and adapt the provided scripts to your specific requirements. Whether you're interested in colorizing images, exploring deep learning architectures, or evaluating colorization results, this project offers valuable insights and tools.
 
@@ -48,8 +48,8 @@ Feel free to modify, experiment, and adapt the provided scripts to your specific
 
 The **Colorful Image Colorization** project builds upon the work of Richard Zhang, Phillip Isola, and Alexei A. Efros, aiming to make colorization accessible and effective using deep learning techniques.
 
-For further understanding and context, explore the code and content within each directory.
+Explore the code and content within each directory for further understanding and context.
 
 ## Contact
 
-If you have any questions, suggestions, or contributions related to this project or any aspect of image colorization, please feel free to contact us at [project_email@example.com](mailto:project_email@example.com). Your engagement and feedback are highly appreciated!
+If you have any questions, suggestions, or contributions related to this project or any image colorization aspect, please contact us at [iyasiniyasin98@gmail.com](mailto:iyasiniyasin98@gmail.com). Your engagement and feedback are highly appreciated!
